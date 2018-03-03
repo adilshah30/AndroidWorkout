@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Workout</string>
+    <string name="title_activity_edit_user">EditUserActivity</string>
+</resources>
